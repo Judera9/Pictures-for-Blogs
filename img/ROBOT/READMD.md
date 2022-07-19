@@ -1,0 +1,1 @@
+This folder store images I used in my blog
